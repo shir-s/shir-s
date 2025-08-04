@@ -27,7 +27,18 @@ I enjoy combining creativity and logic to build interactive software and game ex
 - Focused on player experience, UI/UX, and upgrade mechanics  
 - Created roguelike systems and platformers with custom game logic  
 
+
+
+🎮 [Mirelight – 2D Action Platformer](https://github.com/shir-s/Mirelight)  
+Created as a final project for an advanced Unity course. A glowing spirit explores a dark swamp filled with magical enemies, upgrades, and a challenging boss.
+Published on Itch.io: [Play here](https://shir-s.itch.io/mirelight)
+
+
+
 ---
+
+
+
 
 ## 🔗 Find Me Online
 LinkedIn: https://www.linkedin.com/in/shir-seroussi-b5165a32a/       
