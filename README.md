@@ -1,4 +1,42 @@
-## Hi there 👋
+# Hi, I'm Shir :)
+## Welcome to My GitHub Profile! 👋
+
+I'm currently pursuing a **B.Sc in Computer Science** at the Hebrew University of Jerusalem, with a **minor in Game Development** at Bezalel Academy.  
+I enjoy combining creativity and logic to build interactive software and game experiences.
+
+🎓 Third-year CS student at HUJI + Game Dev minor at Bezalel  
+💻 Cyber Infrastructure experience       
+🧠 Passionate about algorithms, systems, and playful design  
+🌸 Volunteer instructor at QueenB – teaching high school girls how to code       
+🤝 Student mentor at the Hebrew University – guiding first-year CS students through their academic journey (second year in this role)
+
+
+---
+
+## Skills 
+- Languages: Python, C#, Java, C++, C#  
+- Game Engines: Unity  
+- Tools: Git, Linux, Bash, VS Code  
+- Other: Object-Oriented Programming, System Design, Problem Solving  
+
+---
+
+## 🎮 Game Projects 
+
+- Developed several Unity-based games as part of academic and personal projects  
+- Focused on player experience, UI/UX, and upgrade mechanics  
+- Created roguelike systems and platformers with custom game logic  
+
+---
+
+## 🔗 Find Me Online
+LinkedIn: https://www.linkedin.com/in/shir-seroussi-b5165a32a/       
+itch.io: https://shir-s.itch.io/
+
+---
+
+## Contact
+Feel free to reach out if you have any questions or would like to collaborate!
 
 <!--
 **shir-s/shir-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
