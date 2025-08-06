@@ -15,7 +15,7 @@ I’m passionate about blending logic and creativity to build engaging and thoug
 ## 🛠 Skills  
 
 **Languages:** Python, Java, C#, C  
-**Tools & Platforms:** Git, Bash, VS Code,JetBrains IDEs, Linux (Ubuntu, Kali)  
+**Tools & Platforms:** Git, Bash, Linux (Ubuntu, Kali)  
 **Core Concepts:** Object Oriented Programming (OOP), System Design, Debugging, Version Control
 
 ---
