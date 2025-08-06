@@ -13,14 +13,6 @@ I enjoy combining creativity and logic to build interactive software and game ex
 
 ---
 
-## Skills 
-- Languages: Python, C#, Java, C++, C#  
-- Game Engines: Unity  
-- Tools: Git, Linux, Bash, VS Code  
-- Other: Object-Oriented Programming, System Design, Problem Solving  
-
----
-
 ## 🎮 Game Projects 
 
 - Developed several Unity-based games as part of academic and personal projects  
