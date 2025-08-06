@@ -48,7 +48,7 @@ Published on Itch.io: [Play here](https://danaeck.itch.io/the-little-helper)
 
 ---
 
-###  [duckross](https://github.com/shir-s/duckross)  
+###  [Duckross](https://github.com/shir-s/Duckross)  
 A light-hearted crossing game where a mother duck leads her ducklings safely through obstacles. Built with Unity using a retro-styled 2D design.  
 Players must dodge cars and cross rivers while collecting ducklings in a snake-like formation.  
 Published on Itch.io: [Play here](https://shir-s.itch.io/duckross)
