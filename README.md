@@ -1,15 +1,22 @@
-# Hi, I'm Shir :)
-## Welcome to My GitHub Profile! 👋
 
-I'm currently pursuing a **B.Sc in Computer Science** at the Hebrew University of Jerusalem, with a **minor in Game Development** at Bezalel Academy.  
-I enjoy combining creativity and logic to build interactive software and game experiences.
+# Hi, I'm Shir 👋  
+## Welcome to My GitHub Profile!
 
-- Third-year CS student at HUJI + Game Dev minor at Bezalel  
-- Cyber Infrastructure experience       
-- Passionate about algorithms, systems, and playful design  
-- Volunteer instructor at QueenB – teaching high school girls how to code       
-- Student mentor at the Hebrew University – guiding first-year CS students through their academic journey (second year in this role)
+I'm a **Computer Science B.Sc. student** at the Hebrew University of Jerusalem, with a **minor in Game Development** at Bezalel Academy of Arts and Design.  
+I’m passionate about blending logic and creativity to build engaging and thoughtful software, with a growing focus on system design, user experience, and game mechanics.
 
+- Third-year CS student at HUJI with a Game Dev minor at Bezalel  
+- Interested in algorithms, systems, and expressive interaction design  
+- Volunteer instructor at QueenB – teaching high school girls how to code  
+- Student mentor at HUJI – guiding first-year CS students through their academic journey (2nd year in this role)
+
+---
+
+## 🛠 Skills  
+
+**Languages:** Python, Java, C#, C  
+**Tools & Platforms:** Git, Bash, VS Code,JetBrains IDEs, Linux (Ubuntu, Kali)  
+**Core Concepts:** Object Oriented Programming (OOP), System Design, Debugging, Version Control
 
 ---
 
