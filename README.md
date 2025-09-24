@@ -12,7 +12,7 @@ I’m passionate about blending logic and creativity to build engaging and thoug
 
 ---
 
-## 🛠 Skills  
+## Skills  
 
 **Languages:** Python, Java, C#, C  
 **Tools & Platforms:** Git, Bash, Linux (Ubuntu, Kali)  
@@ -53,7 +53,7 @@ Players must dodge cars and cross rivers while collecting ducklings in a snake-l
 Published on Itch.io: [Play here](https://shir-s.itch.io/duckross)
 
 ---
-## 📊 Other Projects  
+## Other Projects  
 
 ### [Table Calculator – Python GUI Application](https://github.com/shir-s/Table-Calculator)  
 Developed a spreadsheet-like tool with a graphical interface using **Python, Tkinter, and Pandas**.  
@@ -61,7 +61,7 @@ Features include data entry, custom and built-in functions (`SUM`, `AVERAGE`, `M
 
 ---
 
-## 🔗 Find Me Online
+## Find Me Online
 LinkedIn: https://www.linkedin.com/in/shir-seroussi-b5165a32a/       
 itch.io: https://shir-s.itch.io/
 
