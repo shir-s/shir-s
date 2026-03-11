@@ -14,7 +14,7 @@ I’m passionate about blending logic and creativity to build engaging and thoug
 
 ## Skills  
 
-**Languages:** Python, Java, C#, C  
+**Languages:** Python, Java, C#, C, C++
 **Tools & Platforms:** Git, Bash, Linux (Ubuntu, Kali)  
 **Core Concepts:** Object Oriented Programming (OOP), System Design, Debugging, Version Control
 
@@ -25,6 +25,13 @@ I’m passionate about blending logic and creativity to build engaging and thoug
 - Developed several Unity-based games as part of academic and personal projects  
 - Focused on player experience, UI/UX, and upgrade mechanics  
 - Created roguelike systems and platformers with custom game logic  
+
+---
+
+###  [Imprisoned](https://github.com/shir-s/Imprisoned)  
+A narrative-driven 2D adventure built in Unity where the player must escape captivity while navigating hostile environments.  
+Implemented enemy detection mechanics, environmental puzzles, and atmospheric level design focused on tension and exploration.
+Published on Itch.io: [Play here](https://ksenia-spirina.itch.io/imprisoned)
 
 ---
 
