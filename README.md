@@ -28,7 +28,7 @@ I’m passionate about blending logic and creativity to build engaging and thoug
 
 ---
 
-###  [Imprisoned](https://github.com/shir-s/Imprisoned)  
+###  [Imprisoned]
 A narrative-driven 2D adventure built in Unity where the player must escape captivity while navigating hostile environments.  
 Implemented enemy detection mechanics, environmental puzzles, and atmospheric level design focused on tension and exploration.
 Published on Itch.io: [Play here](https://ksenia-spirina.itch.io/imprisoned)
