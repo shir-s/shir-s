@@ -28,14 +28,14 @@ I’m passionate about blending logic and creativity to build engaging and thoug
 
 ---
 
-###  [Imprisoned]
+###  [Imprisoned](https://github.com/shir-s/Imprisoned)  
 A narrative-driven 2D adventure built in Unity where the player must escape captivity while navigating hostile environments.  
 Implemented enemy detection mechanics, environmental puzzles, and atmospheric level design focused on tension and exploration.
 Published on Itch.io: [Play here](https://ksenia-spirina.itch.io/imprisoned)
 
 ---
 
-###  [Mirelight – 2D Action Platformer](https://github.com/shir-s/Mirelight)  
+###  [Mirelight](https://github.com/shir-s/Mirelight)  
 Created as a final project for an advanced Unity course. A glowing spirit explores a dark swamp filled with magical enemies, upgrades, and a challenging boss.  
 Published on Itch.io: [Play here](https://shir-s.itch.io/mirelight)
 
